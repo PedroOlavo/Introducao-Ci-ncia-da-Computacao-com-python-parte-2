@@ -1,1 +1,3 @@
-# Introducao-Ci-ncia-da-Computacao-com-python-parte-2
+# Introducao á Ciência da Computação com Python Parte 2
+
+Repositório destinado a salvar minhas resoluções de exercícios no curso referido.
