@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="template.png" >
+  <img src="template.jpg" >
 </p>
 
 # Introducao à Ciência da Computação com Python Parte 2
