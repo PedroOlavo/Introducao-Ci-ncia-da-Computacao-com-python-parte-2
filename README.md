@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="template.png" >
+</p>
+
 # Introducao à Ciência da Computação com Python Parte 2
 
 Repositório destinado a salvar minhas resoluções de exercícios no curso referido.
